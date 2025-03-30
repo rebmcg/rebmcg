@@ -1,5 +1,7 @@
 👋 I'm a cell biologist who uses python for microscopy, data analysis, and making plots
 <br><br>
+🛠️ I'm currently working on an automated workflow to quicky convert imaris image stacks into MaxZ projections using Napari (I may have gotten a little carried away acquiring a lot of data with a new microscope recently)
+<br><br>
 📫 If you find any of my repositories useful for your own research, have any questions, or just want to connect, feel free to reach out on LinkedIn or Twitter!
 
 
