@@ -1,4 +1,4 @@
-👋 I'm a cell biologist who uses python for microscopy, data analysis, and making plots
+👋 I'm a cell biologist who uses Python for microscopy, data analysis, and making plots
 <br><br>
 🛠️ I'm currently working on an automated workflow to quicky convert Imaris image stacks into MaxZ projections using Napari (I may have gotten a little carried away acquiring a lot of data with a new microscope recently)
 <br><br>
