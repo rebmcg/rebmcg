@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 I'm a cell biologist who uses python for microscopy, data analysis, and making plots
+<br><br>
+📫 If you find any of my repositories useful for your own research, have any questions, or just want to connect, feel free to reach out on LinkedIn or Twitter!
+
 
 <!--
 **rebmcg/rebmcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
